@@ -1,2 +1,3 @@
 # Hybrid-Cryptography
-Hybrid cryptography group project from second year Mathematical Programming unit in BSc Maths at University of Bristol.
+This is my group's Hybrid cryptography project from the second year Mathematical Programming unit on the BSc Maths course at the University of Bristol. 
+The project explores Caesar and Vigenere ciphers, RSA encription and bigram coding, and makes attempts at cracking/deciphering these devices with letter frequency analysis. 
